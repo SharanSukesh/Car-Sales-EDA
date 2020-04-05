@@ -47,6 +47,11 @@ The documents below were used to profile the data before and after we processed 
 
 ## Hypotheses tested
 1. Engine efficiency has played a role in car sale trends over the last 5 years
-2. Engine efficiency to price plays an important role in car sale trends with respect to engine drive and car body.
+2. Engine efficiency to price plays an important role in car sale trends with respect to engine drive and car body
+  * With respect to engine drive
+  * With respect to the car body
+
+## Ackowledgements
+* INSAID - provded dataset
 
 ## Author - Sharan Sukesh
