@@ -1,8 +1,23 @@
-# Car-Sales-EDA
+# Exploratory Data Analysis of Car Sales
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Libraries used](#libraries-used)
+* [Profiling Documents](profiling-documents)
+* [Dataset used](#dataset-used)
+* [Built on](#built-on)
+* [Questions answered](#questions-answered)
+* [Hypotheses tested](#hypotheses-tested)
+* [Ackowledgements](#ackowledgements)
+* [Author](#author)
+
+## About the Project 
 Exploratory Data Analysis of Car Sales
 The python notebook __"Car_Sales_Project"__ contains an initial EDA of car sales data and analyzes how different features impact car sales. It also suggests actionable insights as well as the best features to include in car production to increase sales based on the data. 
 
-## Libraries used for analysis
+## Libraries used
 * Numpy
 * Pandas
 * Matplotlib
@@ -17,18 +32,18 @@ import seaborn as sns
 %matplotlib inline
 ```
 
-## Profiling Documents :
+## Profiling Documents 
 The documents below were used to profile the data before and after we processed the data :
  * __car_sales_preprocessing_df__ - Shows data profile before processing
  * __car_sales_postprocessing_df__ - Shows data profile after processing
 
-## Dataset used :
+## Dataset used 
 * __INSAID__ - car_sales.csv
 
-## Built on:
+## Built on
 * Jupyter Notebook
 
-## Questions answered :
+## Questions answered 
 1. What is the price distribution of cars in the data set?
 2. How does car body influence sales?
 3. How does body type influence efficiency?
@@ -52,6 +67,6 @@ The documents below were used to profile the data before and after we processed 
   * With respect to the car body
 
 ## Ackowledgements
-* INSAID - provided dataset
+* <a href='http://www.INSAID.com'> INSAID </a> - provided dataset
 
 ## Author - Sharan Sukesh
