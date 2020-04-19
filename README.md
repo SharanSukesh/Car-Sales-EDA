@@ -24,6 +24,7 @@ The documents below were used to profile the data before and after we processed 
 
 ## Dataset used :
 * __INSAID__ - car_sales.csv
+<a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' width='100' height='100'/></a>
 
 ## Built on:
 * Jupyter Notebook
