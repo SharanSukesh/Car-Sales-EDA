@@ -69,6 +69,6 @@ The documents below were used to profile the data before and after we processed 
   * With respect to the car body
 
 ## Ackowledgements
-* <a href='https://www.insaid.co'> INSAID </a> - dataset
+* <a href='https://www.insaid.co'> INSAID </a> - Dataset
 
 ## Author - Sharan Sukesh
