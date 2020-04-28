@@ -14,7 +14,9 @@
 * [Author](#author)
 
 ## About the Project 
-Exploratory Data Analysis of Car Sales
+
+Exploratory Data Analysis of our Car Sales dataset which contains information such as body type, engine type and year of purchase.
+
 The python notebook __"Car_Sales_Project"__ contains an initial EDA of car sales data and analyzes how different features impact car sales. It also suggests actionable insights as well as the best features to include in car production to increase sales based on the data. 
 
 ## Libraries used
